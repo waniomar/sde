@@ -8,7 +8,6 @@
 
 # Overview
 
-* Website: https://www.waniomar.com/ongoing-projects
 * Repository: https://github.com/waniomar/sde
 * License: [MIT](https://github.com/waniomar/sde/blob/main/LICENSE)
 
