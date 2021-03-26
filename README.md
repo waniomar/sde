@@ -2,7 +2,7 @@
   <a href="https://dai.lids.mit.edu">
     <img alt="DAI-Lab" width=80% src="images/SDE_test.jpg" onerror="this.onerror=null;this.src='_static/dai-logo-white.png';"/>
   </a>
-  <i>An Open Source Project from the <a href="https://dai.lids.mit.edu">Data to AI Lab, at MIT</a></i>
+  <i>An ongoing projet</a></i>
 </p>
 
 
