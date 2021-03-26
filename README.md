@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://dai.lids.mit.edu">
-    <img alt="DAI-Lab" width=15% src="images/sde_test.jpg" onerror="this.onerror=null;this.src='_static/dai-logo-white.png';"/>
+    <img alt="DAI-Lab" width=15% src="images/SDE_test.jpg" onerror="this.onerror=null;this.src='_static/dai-logo-white.png';"/>
   </a>
   <i>An Open Source Project from the <a href="https://dai.lids.mit.edu">Data to AI Lab, at MIT</a></i>
 </p>
@@ -15,11 +15,9 @@
 
 # Overview
 
-* Website: https://sdv.dev
-* Documentation: https://sdv.dev/Copulas
-* Repository: https://github.com/sdv-dev/Copulas
-* License: [MIT](https://github.com/sdv-dev/Copulas/blob/master/LICENSE)
-* Development Status: [Pre-Alpha](https://pypi.org/search/?c=Development+Status+%3A%3A+2+-+Pre-Alpha)
+* Website: https://www.waniomar.com/ongoing-projects
+* Repository: https://github.com/waniomar/sde
+* License: [MIT](https://github.com/waniomar/sde/blob/main/LICENSE)
 
 In this research project, I will explore the benefits and limitations of using a suite of appropriate stochastic
 differential equations to model catchment storage . To test the performance of these equations,
