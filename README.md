@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://dai.lids.mit.edu">
+  <a href="">
     <img alt="DAI-Lab" width=80% src="images/animated-dynamicprob_PlumIsland.gif" onerror="this.onerror=null;this.src='_static/dai-logo-white.png';"/>
   </a>
   <i>Fig:  In a stochastic dynamical system, the evolution of the system states will get represented by changing probabilities. (It's an ongoing project.)</a></i>
